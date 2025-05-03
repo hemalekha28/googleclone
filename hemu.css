@@ -1,0 +1,64 @@
+.red{
+    background-color: red;
+    height:100px;
+    margin-top: 40px;
+    margin-left:40px;
+    margin-right: 40px;
+    margin-bottom: 15px;
+
+}
+.blue{
+    background-color: blue;
+    height:100px;
+    margin-top: 20px;
+    margin-left:40px;
+    margin-right: 40px;
+    margin-bottom: 20px;
+
+}
+.green{
+    background-color: green;
+    height:100px;
+
+}
+.card{
+    color:#222222;
+    background-color: lightgray;
+    width: 300px;
+    margin-top: 50px;
+    margin-left: auto;
+    margin-right: auto;
+
+    border:8px solid black;
+    border-radius:30px;
+
+    padding-top:40px;
+    padding-bottom:40px;
+    padding-left: 40px;
+    padding-right: 40px;
+}
+button{
+    color:#0f1419;
+    border:1px solid #cfd9de;
+    background-color: #f5f8fa;
+    padding-left: 16px;
+    padding-right:16px;
+    padding-top: 8px;
+    padding-bottom: 8px;
+    border-radius: 20px;
+    font-weight: bold;
+}
+ 
+.nav-wrapper{
+    display: flex;
+    justify-content: center;
+}
+.item{
+    border:1px solid black;
+    padding:5px;
+    margin-bottom:5px;
+    margin-top: 5px;
+    margin-left: 10px;
+    margin-right: 10px;
+    text-align: center;
+}
